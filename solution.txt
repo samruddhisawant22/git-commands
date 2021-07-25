@@ -1,0 +1,64 @@
+commands used :
+pwd
+cd
+ls
+cd Desktop
+mkdir commands
+cd commands
+
+notepad file1.txt
+notepad file2.txt
+nano file3.txt
+git init
+ls
+ls -a
+git checkout -b Dev
+git checkout -b Test
+git add file1.txt
+git add file1.txt file2.txt
+git commit -m "files are added to test branch"
+git checkout Dev
+git checkout
+git checkout master
+git branch master
+git remote add origin  C:/Users/user/Desktop/commands/.git/
+git push origin Test
+git remote add origin https://github.com/samruddhisawant22/git-commands.git
+git -d
+rm -rf commands/.git
+git checkout master
+git  remote set -url origin https://github.com/samruddhisawant22/git-commands.git
+git  remote set-url origin https://github.com/samruddhisawant22/git-commands.gitgit checkout Dev
+git checkout Dev
+git checkout test
+git checkout -b Dev
+git add file3.txt
+git commit -m "file added to dev "
+git checkout Test
+notepad file1.txt
+git log
+git status
+cat file1.txt
+git diff
+git commit -m "difference andstatus checked"
+git add file1.txt
+git commit -m " status checked and difference"
+git checkout master
+git merge Dev test
+
+git merge dev
+
+git commit -m "branches merged"
+
+git log
+ 
+git status
+git merge test
+git merge dev
+git commit -m " checking merging"
+ 
+git push origin master
+   
+history
+  
+
